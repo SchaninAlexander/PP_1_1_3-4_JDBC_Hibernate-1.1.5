@@ -6,7 +6,8 @@ import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 
 public class UserDaoHibernateImpl implements UserDao {
