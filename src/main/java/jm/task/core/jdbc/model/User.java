@@ -1,7 +1,7 @@
 package jm.task.core.jdbc.model;
 
+
 import javax.persistence.*;
-import java.io.Serializable;
 
 @Entity
 @Table(name = "User")
